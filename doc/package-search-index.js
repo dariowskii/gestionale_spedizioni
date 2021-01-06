@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.dariovarriale"},{"l":"com.dariovarriale.screens"},{"l":"com.dariovarriale.utils"},{"l":"com.dariovarriale.widgets"}];updateSearchResults();
